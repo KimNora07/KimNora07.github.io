@@ -17,5 +17,6 @@ main:
   #   url: /sitemap/
 
 sidebar-category:
-  - title: "Game"
-    url: /Game
+  - title: "Unity"
+    url: "/unity"
+    category: "Unity"
