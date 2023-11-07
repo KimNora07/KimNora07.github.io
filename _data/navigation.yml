@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    url: https://kimnora07.github.io/
   - title: "About"
     url: /about/
   - title: "GitHub"
@@ -16,6 +16,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-categories:
+docs:
   - title: "Game"
     url: /categories/Game/
