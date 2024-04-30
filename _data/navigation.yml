@@ -20,3 +20,6 @@ sidebar-category:
   - title: "Unity"
     url: "/unity"
     category: "Unity"
+  - title: "DevLog"
+    url: "/devlog"
+    category: "DevLog"
