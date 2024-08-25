@@ -30,7 +30,8 @@ toc_sticky: true # 본문 목차 네비게이션 고정 여부
 
 <span style="font-size:150%">코드<br/><span style>
 
-```#include <stdio.h>
+```
+#include <stdio.h>
 #include <iostream>
 #include <string.h>
 #include <string>
@@ -78,4 +79,5 @@ int main() {
     cout << num - count;
 
     return 0;
-}```
+}
+```
