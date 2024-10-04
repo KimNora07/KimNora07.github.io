@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "Home"
+    url: https://kimnora07.github.io/
+  - title: "About"
+    url: /about/
+  - title: "GitHub"
+    url: https://github.com/KimNora07
+  
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+sidebar-category:
+  - title: "Unity"
+    url: "/unity"
+    category: "Unity"
+  - title: "DevLog"
+    url: "/devlog"
+    category: "DevLog"
