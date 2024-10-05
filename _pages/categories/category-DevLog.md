@@ -1,7 +1,7 @@
 ---
 title: "DevLog"
 layout: archive
-permalink: categories/DevLog
+permalink: categories/devlog
 author_profile: true
 sidebar_main: true
 ---

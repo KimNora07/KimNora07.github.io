@@ -6,7 +6,7 @@ excerpt: "백준 프로그래밍 테스트"
 categories: # 카테고리 설정
   - ProgrammingTest
 tags: # 포스트 태그
-  - [BackJoon, PrgrammingTest]
+  - [BackJoon, CodingTest]
 
 permalink: programmingTest/backjoon10798 # 포스트 URL
 
