@@ -1,5 +1,5 @@
 ---
-title: "유니티 연습"
+title: "Unity"
 layout: archive
 permalink: categories/Unity
 author_profile: true
